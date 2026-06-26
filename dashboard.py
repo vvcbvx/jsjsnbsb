@@ -1079,3 +1079,4 @@ class InstagramBot:
 if __name__ == "__main__":
     bot = InstagramBot()
     bot.start()
+    
