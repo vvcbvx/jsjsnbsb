@@ -1,0 +1,13 @@
+# Core dependencies
+instagrapi>=2.0.0
+groq>=0.5.0
+Flask>=2.0.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+
+# HTTP requests (instagrapi dependency)
+requests>=2.28.0
+
+# Additional utilities (used by instagrapi)
+typing-extensions>=4.0.0
